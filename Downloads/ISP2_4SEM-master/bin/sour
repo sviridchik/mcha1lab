@@ -1,0 +1,22 @@
+__name__ = "ya_func"
+
+[__code__]
+co_argcount = 1
+co_cellvars = []
+co_code = [ 124, 0, 116, 0, 55, 0, 125, 0, 124, 0, 83, 0,]
+co_consts = [ "None",]
+co_filename = "/Users/victoriasviridchik/PycharmProjects/ISP2_4SEM/file.py"
+co_firstlineno = 6
+co_flags = 67
+co_freevars = []
+co_kwonlyargcount = 0
+co_lnotab = [ 0, 1, 8, 1,]
+co_name = "ya_func"
+co_names = [ "CONST",]
+co_nlocals = 1
+co_posonlyargcount = 0
+co_stacksize = 2
+co_varnames = [ "x",]
+
+[__globals__]
+CONST = 6
